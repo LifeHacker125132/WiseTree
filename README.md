@@ -1,8 +1,46 @@
-# Meteor Addon Template
+#WiseTree Hack
 
-A template to allow easy usage of the Meteor Addon API.
+## PvP Modules:
+- **Anti-Anchor**
+- **Piston-Aura**
+- **Auto-Crystal**
+- **Auto-City**
+- **Surround**
+- **Bow-Release**
+- **Tnt-Aura**
+- **Bed-Bomb**
+- **Anti-Bed**
+- **Bed-Lay**
+- **Strafe**
+- **Piston-Push**
 
-### How to use:  
-- Clone this project
-- Use this template to create new modules/commands
-- Run the mod with Meteor.
+## Miscellaneous Modules:
+- **Auto-Ez**
+- **No-Break-Reset**
+- **Burrow-Esp**
+- **Chat-Tweaks**
+- **Armor-Alert**
+- **Elytra-Fly**
+- **Elytra-Jump**
+- **Death-Info**
+- **Chest-Tracker**
+- **Silent-Use**
+- **Multi-Task**
+- **No-Rotate**
+- **Hit-Sounds**
+- **Auto-DM**
+- **Auto-Mine**
+- **Prefix**
+- **Frame-Dupe**
+- **Tpa-Spammer**
+
+## Render Modules:
+- **Bed-Chams**
+- **HUE**
+- **Block-Selection**
+- **Item-Glint**
+- **Mine-Progress**
+- **Visual-Range**
+- **No-Hurt-Cam**
+- **Custom-Fov**
+- **No-Swing**
