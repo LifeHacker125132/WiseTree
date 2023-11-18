@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "package": "wise.tree.addon.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "BedBlockEntityRendererMixin",
+    "ClientPlayerEntityMixin",
+    "HeldItemRendererMixin",
+    "ItemRendererMixin",
+    "MinecraftClientMixin",
+    "RenderLayerAccessor",
+    "RenderLayerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [
+    "ClientConnectionMixin",
+    "CrystalAuraMixin",
+    "ItemRendererAccessor",
+    "ItemStackMixin"
+  ]
+}

@@ -1,27 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "addon-template",
+  "id": "wisetree-hack",
   "version": "${version}",
-  "name": "Addon Template",
-  "description": "An addon template for the Meteor addons.",
+  "name": "WiseTree",
+  "description": "The best advanced addon for Meteor Client",
+
   "authors": [
-    "seasnail"
+    "__aaa__",
+    "LifeHacker"
   ],
   "contact": {
-    "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"
+    "discord": "https://discord.gg/knTz9BpESE"
   },
   "icon": "assets/template/icon.png",
   "environment": "client",
   "entrypoints": {
     "meteor": [
-      "com.example.addon.Addon"
+      "wise.tree.addon.WiseTree"
     ]
   },
   "mixins": [
-    "addon-template.mixins.json"
+    "wt.mixins.json"
   ],
   "custom": {
-    "meteor-client:color": "225,25,25"
+    "meteor-client:color": "10,170,30"
   },
   "depends": {
     "java": ">=17",
