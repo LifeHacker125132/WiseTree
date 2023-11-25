@@ -1,4 +1,4 @@
-# WiseTree Hack
+# WiseTree Hack - [Discord](https://discord.gg/knTz9BpESE)
 
 ## PvP Modules:
 - **Anti-Anchor**
